@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/regionsAuto/static/css/main.249379ba.css",
+    "main.js": "/regionsAuto/static/js/main.0dd89542.js",
+    "static/media/BaystarScriptMedium-PERSONAL_USE_ONLY.otf": "/regionsAuto/static/media/BaystarScriptMedium-PERSONAL_USE_ONLY.15bb9aa250ab21e2d264.otf",
+    "static/media/BaystarScriptBold-PERSONAL_USE_ONLY.otf": "/regionsAuto/static/media/BaystarScriptBold-PERSONAL_USE_ONLY.9de0eaeaef6ca9c4b197.otf",
+    "static/media/BaystarScriptLight-PERSONAL_USE_ONLY.otf": "/regionsAuto/static/media/BaystarScriptLight-PERSONAL_USE_ONLY.48f2fc2efc14a03778a8.otf",
+    "index.html": "/regionsAuto/index.html",
+    "main.249379ba.css.map": "/regionsAuto/static/css/main.249379ba.css.map",
+    "main.0dd89542.js.map": "/regionsAuto/static/js/main.0dd89542.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.249379ba.css",
+    "static/js/main.0dd89542.js"
+  ]
+}
